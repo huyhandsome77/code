@@ -1,7 +1,53 @@
-echo "# code" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/huyhandsome77/code.git
-git push -u origin main
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <title>My Website</title>
+  </head>
+  
+<body style="background-color:#C0C0C0;">
+  <header>
+        <h1 style="color:green;background-color:black;text-align:center;">
+  SubSieuNhanh.Com
+    </h1>
+    <span>
+      <a href=https://subgiare.vn/service/facebook/sub-vip/order> <b style="font-family:Roboto;">Sub Vip</b> </a>
+    </span>
+ <span><a href=https://subgiare.vn/service/facebook/sub-sale/order> <b style="font-family:Roboto;"> Sub Sale</b> </a></span>
+    </header>
+
+    
+    <p>
+      Hệ thống chuyên cung cấp các dịch vụ tăng Like, Follow,<br>
+      Share, Comment, View Video,... cho các Mạng xã hội như </br>
+  Facebook, Instagram, Tiktok...
+    </p>
+<hr>
+    <h3>Bang gia subsieunhanh.com</h3>
+    <ul>    
+ <li>
+   <a href=https://subgiare.vn/service/facebook/sub-vip/order> Sub Vip </a> </li> 
+ <li>
+    <a href=https://subgiare.vn/service/facebook/sub-sale/order> Sub Sale </a> </li>
+ <li><a href=https://subgiare.vn/service/facebook/sub-quality/order> Sub Quality </a></li>
+   </ul>
+<hr>
+  <div>
+    <a href="https://www.facebook.com/Just.Only.Huy"> Link FB admin </a>
+    </div>
+<div>
+  <img src="https://wallpapercave.com/wp/wp9059635.jpg" alt="W3Schools.com" width="500" height=" 500">
+</div>
+
+ <a href="https://sub77.online/"> <button type="button" style="width:200px; height:30px">Nạp tiền ngay</button></a>
+  
+
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+
+</body>
+</html>
